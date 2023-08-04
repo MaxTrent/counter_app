@@ -45,6 +45,12 @@ class MyHomePage extends StatelessWidget {
             tooltip: 'Increment',
             child: const Icon(Icons.remove),
           ),
+          const SizedBox(width: 10,),
+          FloatingActionButton(
+            onPressed: ()=> BlocProvider.of<CounterBlocs>(context).add(Reset()),
+            tooltip: 'Reset Counter',
+            child: const Icon(Icons.refresh),
+          ),
         ],
       ),
     );
