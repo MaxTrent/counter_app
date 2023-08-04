@@ -1,16 +1,3 @@
-# counter_app
+The flutter demo counter app using bloc state management
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[device-2023-08-04-152647.webm](https://github.com/MaxTrent/counter_app/assets/83916293/dc73002d-d5ec-45dd-9593-5a2e93652fbb)
